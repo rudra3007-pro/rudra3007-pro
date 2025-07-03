@@ -28,13 +28,6 @@ A comprehensive showcase of my skills, projects, and journey as a developer. Inc
 
 ---
 
-## 🛠️ Other Projects
-
-- **Blog Platform**: A minimal, markdown-powered blogging system built with Express.js and MongoDB.
-- **Space Explorer App**: A React app that fetches and displays data from NASA’s open APIs, letting users explore astronomy images and learn about the cosmos.
-- **Hindi Poetry Website**: A simple web portal to share and publish Hindi poems, supporting community contributions.
-
----
 
 ## 📈 GitHub Stats
 
