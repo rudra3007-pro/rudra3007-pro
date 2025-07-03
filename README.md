@@ -21,7 +21,7 @@ I'm a dedicated student with a deep passion for technology, coding, and creative
 
 ## 🌟 Featured Projects
 
-### [Portfolio]https://github.com/rudra3007-pro/My-PortFolio(#)
+### [Portfolio](#)
 A comprehensive showcase of my skills, projects, and journey as a developer. Includes interactive demos, project highlights, and information about my technical stack.
 
 - **Technologies:** React, HTML5, CSS3, JavaScript, GitHub Pages
