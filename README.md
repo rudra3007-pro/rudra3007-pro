@@ -31,19 +31,9 @@ A comprehensive showcase of my skills, projects, and journey as a developer. Inc
 
 
 ## 📈 GitHub Stats
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rudra3007-pro&show_icons=true&theme=radical" />
 
-## 📊 GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=rudra3007-pro&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra3007-pro&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-  alt="Top Languages"
-/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rudra3007-pro&layout=compact&theme=radical" />
 ---
 
 ## 📫 Connect with Me
