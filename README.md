@@ -6,8 +6,8 @@ I'm a dedicated student with a deep passion for technology, coding, and creative
 
 - 💻 **Skills:**  
   - Programming Languages (C, C++, Python, JavaScript)  
-  - Full Stack Web Development (HTML, CSS, JavaScript)
-  - More to master - React, Node.js, Express, MongoDB 
+  - Full Stack Web Development (HTML, CSS, JavaScript , Flask)
+  - Supabase , Google Cloud Platform 
   - Version Control (Git & GitHub)  
 
 - 🌌 **Interests:**  
