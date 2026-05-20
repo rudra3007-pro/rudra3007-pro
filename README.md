@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm a dedicated student with a deep passion for technology, coding, and creative expression. Fascinated by the endless possibilities of the digital world, I thrive on learning new programming languages and building full stack web applications that solve real problems. My curiosity extends far beyond the screen—from the mysteries of space to the magic of the written word.
 
+![Profile views](https://komarev.com/ghpvc/?username=rudra3007-pro)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudraksh_3007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-mishra-38824a326/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrudraksh03@gmail.com) 
