@@ -1,55 +1,27 @@
-# 👋 Hi, I’m Rudraksh Mishra (rudra3007-pro)!
-
-## 🚀 About Me
-
+# 💫 About Me:
 I'm a dedicated student with a deep passion for technology, coding, and creative expression. Fascinated by the endless possibilities of the digital world, I thrive on learning new programming languages and building full stack web applications that solve real problems. My curiosity extends far beyond the screen—from the mysteries of space to the magic of the written word.
 
-- 💻 **Skills:**  
-  - Programming Languages (C, C++, Python, JavaScript)  
-  - Full Stack Web Development (HTML, CSS, JavaScript , Flask)
-  - Supabase , Google Cloud Platform 
-  - Version Control (Git & GitHub)  
 
-- 🌌 **Interests:**  
-  - Space exploration and astrophysics  
-  - Reading fiction and non-fiction  
-  - Writing Hindi poems  
-  - Open source contribution  
-  - Building personal and collaborative projects
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudraksh_3007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-mishra-38824a326/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Rudraksh Mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrudraksh03@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rudra3007-pro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=rudra3007-pro&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rudra3007-pro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌟 Featured Projects
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rudra3007-pro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### [[Portfolio](https://portfolio-gamma-taupe-79.vercel.app/)]
-A comprehensive showcase of my skills, projects, and journey as a developer. Includes interactive demos, project highlights, and information about my technical stack.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- **Technologies:** HTML5, CSS3, JavaScript
-- **Highlights:** Responsive design, interactive UI, project gallery
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rudra3007-pro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=rudra3007-pro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 📈 GitHub Stats
-![rudra3007-pro's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudra3007-pro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra3007-pro&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/rudraksh-mishra-38824a326/)
-- [GitHub](https://github.com/rudra3007-pro)
-
----
-
-## ✨ Fun Facts & Hobbies
-
-- I can spend hours stargazing and pondering the mysteries of the universe.
-- I love getting lost in books—anything from science fiction to poetry.
-- I'm passionate about writing Hindi poems and believe in the power of words to inspire and heal.
-- My dream is to one day contribute to a space tech project or publish a collection of my poems.
-
----
-
-_“Coding is my craft, curiosity is my fuel, and creativity is my compass.”_
-
-Thanks for visiting my profile! Feel free to explore my repositories, connect, or collaborate on exciting projects. Always open to learning, sharing, and growing together. 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
