@@ -13,7 +13,6 @@ I'm a dedicated student with a deep passion for technology, coding, and creative
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rudra3007-pro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rudra3007-pro&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rudra3007-pro&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
